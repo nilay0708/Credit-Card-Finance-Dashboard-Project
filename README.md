@@ -18,7 +18,7 @@ This repository contains a data visualization and business insight project built
 
 ## 📸 Preview
 
-![Dashboard Overview](./dashboard-screenshots/credit_card_dashboard.png)
+![Dashboard Overview](./dashboard-screenshots/cc dash updated.png)
 
 ---
 
